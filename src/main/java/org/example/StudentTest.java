@@ -3,7 +3,6 @@ import org.example.Student;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.logging.Logger;
-
 public class StudentTest {
     public static void main(String[] args) {
         int choice;
