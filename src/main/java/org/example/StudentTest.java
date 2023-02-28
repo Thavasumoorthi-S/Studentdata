@@ -1,5 +1,4 @@
 package org.example;
-import org.example.Student;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.logging.Logger;
